@@ -1,0 +1,7 @@
+{
+  "name": "ExamSaathi - AI Exam Stress Relief",
+  "description": "A professional AI-powered counseling platform designed for Indian students to manage exam stress through multilingual, empathetic support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
